@@ -1,6 +1,6 @@
 # No Starch Python For Kids
 <p>
-Learning the basics with my kids using the No Starch Press 
+Learning the basics with my kids using a number of No Starch Press books
 </p>
 <p>
 Examples are from:
