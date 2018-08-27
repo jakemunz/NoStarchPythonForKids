@@ -7,7 +7,7 @@ Examples are from:
  <ul>
   <li>Teach Your Kids To Code - Bryson Payne</li>
   <li>Python For Kids - Jason R. Briggs</li>
-  <li>Invent Your Own Compter Games With Python - AlSweigart</li>
+  <li>Invent Your Own Compter Games With Python - Al Sweigart</li>
  </ul>  
  As the backlog of work is completed from these books, additional titles will be added
  </p>
